@@ -3,7 +3,7 @@
 #  <img src = "https://readme-typing-svg.herokuapp.com?font=Kalam&size=40&duration=2000&pause=380&color=02A8F7&center=true&vCenter=true&width=443&height=55&lines=Hi+%F0%9F%91%8B%2C+I'm+Salik"/>
 <img alt="GitHub" src="https://github.githubassets.com/images/mona-loading-dark.gif" width="50" height="50" align="right"  />
 
-I'm a passionate full-stack developer with a drive for building impactful projects that make a positive difference. Whether it's crafting intuitive UI experiences or diving deep into the logic of React and full-stack development, I’m always looking for ways to improve and innovate.
+I'm a passionate UI full-stack developer with a drive for building impactful projects that make a positive difference. Whether it's crafting intuitive UI experiences or diving deep into the logic of React and full-stack development, I’m always looking for ways to improve and innovate.
 
 I believe that the right technology can transform ideas into reality and create solutions that have a lasting impact on users and communities. Currently, I’m focused on creating seamless, scalable web applications that don’t just work—they inspire.
 
