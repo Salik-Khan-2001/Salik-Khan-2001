@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Salik-Khan-2001&base=1000&label=Profile%20views&color=0e75b6&style=flat" alt="salik khan" /> </p>
 
-#  <img src = "https://readme-typing-svg.herokuapp.com?font=Kalam&size=40&duration=2000&pause=380&color=02A8F7&center=true&vCenter=true&width=443&height=55&lines=Hi+%F0%9F%91%8B%2C+I'm+Ozear"/>
+#  <img src = "https://readme-typing-svg.herokuapp.com?font=Kalam&size=40&duration=2000&pause=380&color=02A8F7&center=true&vCenter=true&width=443&height=55&lines=Hi+%F0%9F%91%8B%2C+I'm+Salik"/>
 <img alt="GitHub" src="https://github.githubassets.com/images/mona-loading-dark.gif" width="50" height="50" align="right"  />
 
 I'm a passionate full-stack developer with a drive for building impactful projects that make a positive difference. Whether it's crafting intuitive UI experiences or diving deep into the logic of React and full-stack development, I’m always looking for ways to improve and innovate.
